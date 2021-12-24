@@ -8,6 +8,9 @@
 - Rafi Rabbani 				      ( 20081010229 )
 - Rendi Cahya Saputra			  ( 20081010246 )
 
+## Judul
+**APLIKASI PENJUALAN RUMAH**
+
 ## Deskripsi
 
 ## Screenshot Aplikasi
