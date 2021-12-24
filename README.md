@@ -21,6 +21,13 @@ seperti sorting, dan searching.
 ## Data Digunakan
 
 ## Metode Digunakan
+a. Bubble Sort 
+b.Insertion Sort 
+c. Selection Sort 
+d. Merge Sort
+e. Linear Search
+f. Binary Search 
+g. Jump Search 
 
 ## List Menu
 
