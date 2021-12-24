@@ -12,6 +12,9 @@
 **APLIKASI PENJUALAN RUMAH**
 
 ## Deskripsi
+Program penjualan rumah ini, bertujuan sebagai sarana penghubung antara penjual rumah
+dan orang yang sedang mencari rumah, didalam program ini juka terdapat difitur-fitur yang dapat mempermudah
+seperti sorting, dan searching.
 
 ## Screenshot Aplikasi
 
