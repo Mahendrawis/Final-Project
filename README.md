@@ -7,3 +7,15 @@
 - Imam Maskuri 			        ( 20081010074 )
 - Rafi Rabbani 				      ( 20081010229 )
 - Rendi Cahya Saputra			  ( 20081010246 )
+
+## Deskripsi
+
+## Screenshot Aplikasi
+
+## Data Digunakan
+
+## Metode Digunakan
+
+## List Menu
+
+## Cara Penggunaan
