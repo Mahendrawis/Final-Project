@@ -1,6 +1,7 @@
 # <p align="center">FINAL PROJECT PEMROGRAMAN LANJUT</p>
 
 ## Nama Anggota Kelompok 9
+
 - Fery Almas Ariansyah   		( 20081010017 )
 - Masfi Ulil Affandi   			( 20081010020 )
 - Mahendra Wisnu Wardana 		( 20081010044 )
@@ -36,15 +37,24 @@
 > ![image](https://user-images.githubusercontent.com/90993075/147375897-0828dabc-5a45-47f7-9c18-736da6359b32.png)
 
 ## Data Digunakan
+- Nama
+- NIK
+- ID
+- Tipe Rumah
+- Alamat
+- Kamar Tidur
+- Kamar Mandi
+- Lantai
+- Harga
 
 ## Metode Digunakan
-1. Bubble Sort 
-2. Insertion Sort 
-3. Selection Sort 
-4. Merge Sort
-5. Linear Search
-6. Binary Search 
-7. Jump Search 
+- [x] Bubble Sort 
+- [x] Insertion Sort 
+- [x] Selection Sort 
+- [x] Merge Sort
+- [x] Linear Search
+- [x] Binary Search 
+- [x] Jump Search 
 
 ## List Menu
 ### Menu Utama
@@ -90,9 +100,9 @@
     - Exit
 
 ## Cara Penggunaan
-Terdapat 2  menu pilihan awal (pembeli dan penjual)
+<p align="justify">Terdapat 2 menu pilihan awal (pembeli dan penjual)
 
-Jika yang dipilih (penjual)
+***Jika yang dipilih (penjual)***
 
 Maka akan tersedia menu penjual :  
 1. Input = dimenu ini penjual akan menginputkan data rumah
@@ -104,13 +114,14 @@ Maka akan tersedia menu penjual :
 7. Rumah yang terjual = penjual bisa melihat data rumah yang telah terjual 
 
 
-Jika yang dipilih (pembeli)
+***Jika yang dipilih (pembeli)***
 
 Maka akan tersedia menu pembeli : 
 1. Lihat Rumah = pembeli bisa melihat daftar-daftar rumah yang sudah diinputkan oleh penjual
 2. Lihat Urut = pembeli bisa melihat  data rumah secara urut bersarkan (tipe, alamat, kamar tidur, kamar mandi, lantai, harga)
 3. Cari Rumah = pembeli bisa mencari rumah berdasarkan (tipe, alamat, harga)
 4. Beli Rumah = pembeli dapat membeli rumah lewat menu ini, rumah yang sudah terjual akan secara otomatis masuk ke list rumah yang terjual di menu penjual
+  </p>
 
 
 
