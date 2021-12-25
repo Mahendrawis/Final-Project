@@ -90,25 +90,25 @@
     - Exit
 
 ## Cara Penggunaan
-terdapat 2 awal pilihan awal (pembeli dan penjual)
+Terdapat 2  menu pilihan awal (pembeli dan penjual)
 
-jika yang dipilih (penjual)
-maka akan tersedia menu dimana penjual bisa
-1. input= dimenu ini penjual akan menginputkan data rumah
-2. lihat rumah= dimenu ini penjual bisa melihat rumah yang sudah di inputkan
-3. ubah rumah = dimenu ini penjual bisa mengubah data rumah yang awalnya sudah diinputkan data yang dirubah
-4. hapus rumah = dimenu ini penjual bisa menghapus rumah yang di inputkan, jika tidak jadi di jual
-5. Lihat urut= penjual bisa melihat urut data data berdasarkan (tipe, alamat, kamar tidur, kamar mandi, lantai, harga)
-6. Cari rumah= dimenu ini penjual bisa mencari rumah berdasarkan (tipe, alamat, harga)
-7. Rumah yang terjual= penjual bisa melihat rumah yang sudah di jual
+Jika yang dipilih (penjual)
+Maka akan tersedia menu dimana penjual bisa
+1. Input = dimenu ini penjual akan menginputkan data rumah
+2. Lihat Rumah = dimenu ini penjual bisa melihat rumah yang sudah di inputkan
+3. Ubah Rumah = dimenu ini penjual bisa mengubah data rumah yang awalnya sudah diinputkan
+4. Hapus Rumah = dimenu ini penjual bisa menghapus rumah yang di inputkan, jika tidak jadi di jual
+5. Lihat Urut = penjual bisa melihat urut data data berdasarkan (tipe, alamat, kamar tidur, kamar mandi, lantai, harga)
+6. Cari Rumah = dimenu ini penjual bisa mencari rumah berdasarkan (tipe, alamat, harga)
+7. Rumah yang terjual = penjual bisa melihat data rumah yang telah terjual 
 
 
-jika yang dipilih (pembeli)
-maka akan tersedia menu pembeli
-1. lihat rumah= pembeli bisa melihat daftar-daftar rumah yang sudah diinputkan oleh penjual
-2. lihat urut= pembeli bisa melihat urut data bersarkan (tipe, alamat, kamar tidur, kamar mandi, lantai, harga)
-3. Cari rumah= pembeli bisa mencari rumah berdasarkan (tipe, alamat, harga)
-4. beli rumah= pembeli dapat membeli rumah lewat menu ini, rumah yang ter beli secara otomatis masuk ke list rumah yang terjual di menu penjual
+Jika yang dipilih (pembeli)
+Maka akan tersedia menu pembeli
+1. Lihat Rumah = pembeli bisa melihat daftar-daftar rumah yang sudah diinputkan oleh penjual
+2. Lihat Urut = pembeli bisa melihat  data rumah secara urut bersarkan (tipe, alamat, kamar tidur, kamar mandi, lantai, harga)
+3. Cari Rumah = pembeli bisa mencari rumah berdasarkan (tipe, alamat, harga)
+4. Beli Rumah = pembeli dapat membeli rumah lewat menu ini, rumah yang sudah terjual akan secara otomatis masuk ke list rumah yang terjual di menu penjual
 
 
 
