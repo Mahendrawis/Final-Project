@@ -47,5 +47,46 @@
 7. Jump Search 
 
 ## List Menu
+### Menu Utama
+  - **Penjual**
+    - Input Rumah
+    - Lihat Rumah
+    - Ubah Rumah
+      - Ubah Tipe
+      - Ubah Alamat
+      - Ubah Kamar Tidur
+      - Ubah Kamar Mandi
+      - Ubah Lantai
+      - Ubah Harga
+    - Hapus Rumah
+    - Lihat Urut
+      - Urut Tipe
+      - Urut Alamat
+      - Urut Kamar Tidur
+      - Urut Kamar Mandi
+      - Urut Lantai
+      - Urut Harga
+    - Cari Rumah
+      - Cari Tipe
+      - Cari Alamat
+      - Cari Harga
+    - Rumah Yang Terjual
+    - Exit
+ 
+  - **Pembeli**
+    - Lihat Rumah
+    - Lihat Urut
+      - Urut Tipe
+      - Urut Alamat
+      - Urut Kamar Tidur
+      - Urut Kamar Mandi
+      - Urut Lantai
+      - Urut Harga
+    - Cari Rumah
+      - Cari Tipe
+      - Cari Alamat
+      - Cari Harga
+    - Beli Rumah
+    - Exit
 
 ## Cara Penggunaan
