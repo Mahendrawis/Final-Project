@@ -119,8 +119,8 @@ Maka akan tersedia menu penjual :
 Maka akan tersedia menu pembeli : 
 1. Lihat Rumah = pembeli bisa melihat daftar-daftar rumah yang sudah diinputkan oleh penjual
 2. Lihat Urut = pembeli bisa melihat  data rumah secara urut bersarkan (tipe, alamat, kamar tidur, kamar mandi, lantai, harga)
-3. Cari Rumah = pembeli bisa mencari rumah berdasarkan (tipe, alamat, harga)
-4. Beli Rumah = pembeli dapat membeli rumah lewat menu ini, rumah yang sudah terjual akan secara otomatis masuk ke list rumah yang terjual di menu penjual
+3. Cari Rumah = pembeli bisa mencari sebuah rumah berdasarkan (tipe, alamat, harga)
+4. Beli Rumah = pembeli dapat membeli sebuah rumah lewat menu ini, rumah yang sudah terjual akan secara otomatis masuk ke list rumah yang terjual di menu penjual
   </p>
 
 
