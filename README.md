@@ -13,7 +13,7 @@
 **APLIKASI PENJUALAN RUMAH**
 
 ## Deskripsi
-<p align="justify"> &emsp;Di era dimana jumlah populasi penduduk semakin tinggi, jumlah kebutuhan akan rumah juga semakin tinggi. Rumah adalah salah satu kebutuhan dasar bagi manusia, sebagai tempat untuk berlindung dan berteduh. hal ini terkadang menyulitkan para pencari rumah karena terkadang jumlah ketersediaan lebih sedikit dari jumlah permintaan. apalagi di situasi pandemi seperti ini yang mana kita dituntut untuk bisa menjaga jarak. Program penjualan rumah ini, bertujuan sebagai sarana penghubung antara penjual rumah dan orang yang sedang mencari rumah, didalam program ini juka terdapat difitur-fitur yang dapat mempermudah seperti sorting, dan searching.</p>
+<p align="justify"> &emsp;Di era dimana jumlah populasi penduduk semakin tinggi, maka jumlah kebutuhan akan lahan dan rumah juga semakin tinggi. Rumah adalah salah satu kebutuhan dasar bagi manusia, sebagai tempat untuk berlindung dan berteduh. hal ini terkadang menyulitkan bagi para pencari rumah karena terkadang jumlah ketersediaan lebih sedikit dari jumlah permintaan. apalagi di situasi pandemi seperti ini yang mana kita dituntut untuk bisa menjaga jarak. Dengan program penjualan rumah yang kami buat ini, bertujuan sebagai sarana penghubung antara penjual rumah dan orang yang sedang mencari rumah atau pembeli, didalam program ini juga terdapat fitur-fitur menarik yang dapat mempermudah pengaksesan agar mudah dilihat seperti sorting, dan searching.</p>
 
 ## Screenshot Aplikasi
 1. Menu Login Awal
