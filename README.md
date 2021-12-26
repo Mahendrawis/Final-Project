@@ -111,7 +111,7 @@ Maka akan tersedia menu penjual :
 4. Hapus Rumah = Pada menu ini penjual bisa menghapus rumah yang di inputkan, jika tidak jadi di jual
 5. Lihat Urut = Penjual bisa melihat urut data data berdasarkan (tipe, alamat, kamar tidur, kamar mandi, lantai, harga)
 6. Cari Rumah = Pada menu ini penjual bisa mencari rumah berdasarkan (tipe, alamat, harga)
-7. Rumah yang terjual = Pada menu ini penjual bisa melihat data rumah yang telah terjual 
+7. Rumah yang terjual = Pada menu ini penjual bisa melihat data rumah yang telah terjual, list rumah yang terjual terhubung pada list beli rumah di menu pembeli 
 8. Menu Exit = Pada menu ini program akan keluar atau selesai 
 
 
